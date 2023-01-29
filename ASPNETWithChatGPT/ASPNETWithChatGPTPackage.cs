@@ -17,5 +17,6 @@ namespace ASPNETWithChatGPT
         {
             await this.RegisterCommandsAsync();
         }
+
     }
 }
