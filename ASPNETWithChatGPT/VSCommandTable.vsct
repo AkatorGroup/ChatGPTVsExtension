@@ -6,9 +6,9 @@
   <Include href="KnownImageIds.vsct"/>
   <Include href="VSGlobals.vsct"/>
 
-  <Commands package="ASPNETWithChatGPT">
+  <Commands package="ChatGPT">
     <Groups>
-      <Group guid="ASPNETWithChatGPT" id="MyMenuGroup" priority="0x0600">
+      <Group guid="ChatGPT" id="MyMenuGroup" priority="0x0600">
         <Parent guid="VSMainMenu" id="Edit"/>
       </Group>
     </Groups>
@@ -16,8 +16,8 @@
     <!--This section defines the elements the user can interact with, like a menu command or a button
         or combo box in a toolbar. -->
     <Buttons>
-      <Button guid="ASPNETWithChatGPT" id="MyCommand" priority="0x0100" type="Button">
-        <Parent guid="ASPNETWithChatGPT" id="MyMenuGroup" />
+      <Button guid="ChatGPT" id="MyCommand" priority="0x0100" type="Button">
+        <Parent guid="ChatGPT" id="MyMenuGroup" />
         <Icon guid="ImageCatalogGuid" id="PasteAppend" />
         <CommandFlag>IconIsMoniker</CommandFlag>
         <Strings>
@@ -29,7 +29,7 @@
   </Commands>
 
   <Symbols>
-    <GuidSymbol name="ASPNETWithChatGPT" value="{0346a086-5b33-474c-9b67-0ff1d61a6030}">
+    <GuidSymbol name="ChatGPT" value="{0346a086-5b33-474c-9b67-0ff1d61a6030}">
       <IDSymbol name="MyMenuGroup" value="0x0001" />
       <IDSymbol name="MyCommand" value="0x0100" />
     </GuidSymbol>

@@ -7,12 +7,12 @@ namespace ASPNETWithChatGPT
 {
     internal sealed partial class Vsix
     {
-        public const string Id = "ASPNETWithChatGPT.69135db1-b3d4-4d73-9038-058564195a47";
-        public const string Name = "ASP.NET with ChatGPT";
+        public const string Id = "ChatGPT";
+        public const string Name = "Chat Gpt";
         public const string Description = @"This extension allows you to use ChatGPT in your ASP.NET projectthis ";
         public const string Language = "en-US";
         public const string Version = "1.0";
-        public const string Author = "касымов мухаммад";
+        public const string Author = "Chat Gpt";
         public const string Tags = "";
     }
 }

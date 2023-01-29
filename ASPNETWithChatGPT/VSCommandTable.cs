@@ -12,8 +12,8 @@ namespace ASPNETWithChatGPT
     /// </summary>
     internal sealed partial class PackageGuids
     {
-        public const string ASPNETWithChatGPTString = "0346a086-5b33-474c-9b67-0ff1d61a6030";
-        public static Guid ASPNETWithChatGPT = new Guid(ASPNETWithChatGPTString);
+        public const string ChatGPTString = "0346a086-5b33-474c-9b67-0ff1d61a6030";
+        public static Guid ChatGPT = new Guid(ChatGPTString);
     }
     /// <summary>
     /// Helper class that encapsulates all CommandIDs uses across VS Package.

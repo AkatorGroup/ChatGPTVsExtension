@@ -22,3 +22,4 @@ C:\Users\muham\source\repos\ASPNETWithChatGPT\ASPNETWithChatGPT\obj\Debug\ASPNET
 C:\Users\muham\source\repos\ASPNETWithChatGPT\ASPNETWithChatGPT\obj\Debug\extension.vsixmanifest
 C:\Users\muham\source\repos\ASPNETWithChatGPT\ASPNETWithChatGPT\obj\Debug\files.json
 C:\Users\muham\source\repos\ASPNETWithChatGPT\ASPNETWithChatGPT\obj\Debug\createTemplateManifests.cache
+C:\Users\muham\source\repos\ASPNETWithChatGPT\ASPNETWithChatGPT\obj\Debug\_EmptyResource.resources.original
